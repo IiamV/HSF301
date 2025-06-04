@@ -26,8 +26,8 @@ public class Main {
 //        for (int i = 1; i <= 6; i++) {
 //            studentService.update(i, stuUpd);
 //        }
-        for (int i = 1; i <= 6; i++) {
-            studentService.delete(i);
-        }
+//        for (int i = 1; i <= 6; i++) {
+//            studentService.delete(i);
+//        }
     }
 }
